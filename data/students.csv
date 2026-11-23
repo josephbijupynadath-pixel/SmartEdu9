@@ -1,0 +1,48 @@
+Student_ID,Student_Name,Department,Semester,Subject,Marks,Attendance
+101,Arun,CSE,1,Python,85,92
+102,Anu,CSE,4,Python,72,85
+103,Rahul,ECE,4,Mathematics,45,68
+104,Meera,CSE,4,Python,91,96
+105,John,ECE,4,Mathematics,55,75
+106,Divya,IT,4,Database,88,90
+107,Vishnu,IT,4,Database,62,80
+108,Neha,CSE,4,Python,95,98
+109,Akhil,ECE,4,Mathematics,38,60
+110,Diya,IT,4,Database,78,88
+111,Jose,AI,4,C program,67,78
+112,Simon,CS,1,Mathematics,56,90
+113,Anjali,CSE,4,Python,82,90
+114,Faisal,ECE,4,Mathematics,48,64
+115,Sneha,IT,4,Database,91,95
+116,Rohan,CSE,4,Python,67,78
+117,Fathima,AI,4,C program,74,86
+118,Aditya,ECE,4,Mathematics,59,72
+119,Priya,IT,4,Database,85,92
+120,Kiran,CSE,4,Python,39,58
+121,Maya,CS,4,Mathematics,71,83
+122,Thomas,AI,4,C program,88,94
+123,Lakshmi,ECE,4,Mathematics,52,70
+124,Arjun,CSE,4,Python,96,99
+125,Zoya,IT,4,Database,64,76
+126,Joel,CS,4,Mathematics,43,62
+127,Nithya,AI,4,C program,79,87
+128,Sanjay,IT,4,Database,57,73
+129,Reshma,CSE,4,Python,89,93
+130,Vivek,ECE,4,Mathematics,66,80
+131,Ammu,AI,4,C program,93,97
+132,Basil,CS,4,Mathematics,35,55
+133,Ashwin,CSE,4,Python,77,85
+134,Heena,ECE,4,Mathematics,61,74
+135,Gokul,IT,4,Database,83,91
+136,Teena,AI,4,C program,69,79
+137,Midhun,CS,4,Mathematics,47,66
+138,Abhirami,CSE,3,Data Structures,92,96
+139,Sabu,ECE,3,Physics,54,71
+140,Alina,IT,3,Database,76,84
+141,Harish,AI,3,C program,41,60
+142,Devika,CSE,5,Data Structures,87,93
+143,Yusuf,ECE,5,Mathematics,63,77
+144,Remya,IT,5,Database,95,98
+145,Cyril,CS,5,Physics,58,69
+146,Meenakshi,AI,5,Python,81,89
+147,Sherin,CSE,5,Python,36,57
